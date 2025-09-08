@@ -1,57 +1,82 @@
-👋 Hi, I'm Elena
-🎓 Programming & Software Development student at LaGuardia Community College (GPA: 3.9)
-🔐 B.S. in Computer Science & Information Security student at John Jay College
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:5ca9ff,100:7ef8d2&text=Hi%2C%20I'm%20Elena%20👋&fontSize=42&fontAlign=50&fontAlignY=35" alt="banner"/>
+</p>
 
-I have strong project and people management experience from my years at Adidas and recently transitioned into tech.
-I love learning new technologies, solving problems creatively, and bringing energy to team projects.
-Currently, I'm focused on deepening my skills in cybersecurity, mobile development, and AI/ML, and I’m actively working on expanding my GitHub presence with new projects.
+<div align="center">
 
-👀 Looking for internships, collaborative projects, or mentorship opportunities — especially in software engineering, cybersecurity, or AI. Got a lead? Let’s connect!
+🎓 **Programming & Software Development** @ LaGuardia CC (GPA 3.9)  
+🔐 **B.S. Computer Science & Information Security** @ John Jay College (CUNY)  
 
-💻 Tech Stack
-Languages:
-C++, Java, Kotlin, Swift, Python, PHP, SQL, HTML, CSS, JavaScript
+Ex-Adidas manager → now in **software engineering, cybersecurity, and AI/ML** 🚀  
 
-Cybersecurity & Data Tools:
-UNIX, Wireshark, Google Cloud, Scikit-learn, NumPy, Pandas, Jupyter Notebook
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elenachag/) 
+[![Email](https://img.shields.io/badge/Email-elena.ch%40myyahoo.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elena.ch@myyahoo.com)
 
-Tools & Platforms:
-Android Studio, Unity, VS Code, Git/GitHub, Firebase
+</div>
 
-Design Tools:
-Canva, Adobe Photoshop, MS Office
+---
 
+## 💡 About Me
+I love learning new technologies, solving problems creatively, and bringing energy to team projects.  
+Currently deepening my skills in **cybersecurity, mobile development, and AI/ML**, while expanding my GitHub with new projects.  
 
-🏆 Achievements
-🧠 Break Through Tech AI Fellow @ Cornell Tech – Selected from 3000+ applicants
-🎓 Dean’s List 2023–2025
-🏅 LAGCC Foundation Scholarship
-🎓 B.S. in Business Administration, Saint Petersburg State University of Economics
-🔐 Cybersecurity Interest
-Currently studying Information Security at John Jay College, with interests in:
+👀 Looking for **internships, collaborations, or mentorship** in software engineering, cybersecurity, or AI.  
 
-Network security
-Secure coding practices
-Threat modeling and ethical hacking
-Open-source security tools
-Actively exploring hands-on labs, CTF challenges, and cybersecurity internships.
+---
 
-🧩 Interests
-🎭 Theater, Ballet, Opera
-📷 Photography
-🎾 Tennis
-🌱 Sustainability
-🧠 Psychology
+## 🛠️ Tech Stack  
 
+**Languages**  
+`C++` · `Java` · `Kotlin` · `Swift` · `Python` · `PHP` · `SQL` · `HTML` · `CSS` · `JavaScript`  
 
-📬 Contact Me
-💼 LinkedIn: https://www.linkedin.com/in/elenachag/
-✉️ Email: elena.ch@myyahoo.com
-🤝 Open to Collaborations!
-I'm open to internships, research, or collaborative projects in:
+**Cybersecurity & Data Tools**  
+`UNIX` · `Google Cloud` · `scikit-learn` · `NumPy` · `Pandas` · `Jupyter Notebook`  
 
-🔐 Cybersecurity
-📱 Mobile & Web Development
-🧠 AI/ML
-🧪 Research-based applications
-Let’s build something meaningful together!
+**Tools & Platforms**  
+`Android Studio` · `Unity` · `VS Code` · `Git/GitHub` · `XCode`  
+
+**Design Tools**  
+`Canva` · `Adobe Photoshop` · `MS Office`  
+
+---
+
+## 🏆 Achievements  
+- 🧠 Break Through Tech **AI Fellow** @ Cornell Tech (selected from 3,000+ applicants)  
+- 🎓 Dean’s List 2023–2025  
+- 🏅 LAGCC Foundation Scholarship  
+- 🎓 B.S. in Business Administration, Saint Petersburg State University of Economics  
+
+---
+
+## 🔐 Cybersecurity Focus
+Currently studying Information Security @ John Jay College with interests in:  
+- Network security  
+- Secure coding practices  
+- Threat modeling & ethical hacking  
+- Open-source security tools  
+
+Actively exploring **hands-on labs, CTF challenges, and internships**.  
+
+---
+
+## 🧩 Interests  
+🎭 Theater, Ballet, Opera · 📷 Photography · 🎾 Tennis · 🌱 Sustainability · 🧠 Psychology  
+
+---
+
+## 📊 GitHub Snapshot
+<div align="center">
+
+![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaCh77&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaCh77&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 📬 Contact Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/elenachag/)  
+- ✉️ **elena.ch@myyahoo.com**  
+- 🤝 Open to **internships, research, and collaborations** in:  
+  🔐 Cybersecurity · 📱 Mobile & Web Development · 🧠 AI/ML · 🧪 Research-based apps  
