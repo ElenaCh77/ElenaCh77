@@ -21,45 +21,6 @@ Android Studio, Unity, VS Code, Git/GitHub, Firebase
 Design Tools:
 Canva, Adobe Photoshop, MS Office
 
-🚀 Projects
-🧠 Break Through Tech ML Foundations Project
-📍 May 2025 – Present
-Explored core machine learning concepts through hands-on projects involving data preprocessing, model training, and evaluation.
-Applied algorithms like linear regression and decision trees using Python libraries such as NumPy, Pandas, and scikit-learn.
-Skills: Machine Learning Algorithms · Data Visualization
-
-Lab 8: Define and Solve an ML Problem Click here
-Lab 7: Implement a Neural Network Using Keras Click here
-Lab 6: Train Various Regression Models and Compare Their Performances Click here
-Datesets Click here Click here
-💳 Expense Tracker (iOS)
-📍 Sep 2024 – Dec 2024 | LaGuardia Community College
-Developed an iOS banking app using Swift and Xcode to simulate core features such as account balance display, transaction history, and login.
-Focused on clean UI, responsive interaction, and user security.
-Skills: iOS Development · UIKit · Xcode
-
-💪 Fitness Tracker (Android App)
-📍 Jun 2024 – Aug 2024 | LaGuardia Community College
-Created a mobile app in Android Studio to track fitness activities and goals.
-Used Kotlin, ViewModel, and data persistence strategies to enable workout logging and progress visualization.
-Skills: User Interface Design · Kotlin · ViewModel · Data Persistence
-
-Click here
-📡 QSTEM Academy – WSN Data Analysis
-📍 Jun 2024 – Aug 2024 | LaGuardia Community College
-Applied KNN (K-Nearest Neighbors) to analyze Wireless Sensor Network data and detect outliers using Python and scikit-learn.
-Focused on data preprocessing and anomaly detection in real sensor readings.
-Skills: Python · Machine Learning · Outlier Detection
-
-✈️ Flight Booking Website
-📍 Mar 2024 – Jun 2024 | LaGuardia Community College
-Built a full-stack website using PHP, SQL, JavaScript, HTML, and CSS to enable real-time flight search and booking.
-Emphasized intuitive UX/UI and database-driven features with CRUD operations.
-Skills: PHP · JavaScript · Debugging · CRUD · Project Management
-
-💻 Bank Account Simulator (Java) 📍 February 2024 – May 2024 | LaGuardia Community College Built a Java-based banking application to simulate essential account operations such as deposits, withdrawals, and balance tracking. Focused on object-oriented programming principles and clear user interaction via console-based interface. Skills: Java · Object-Oriented Programming (OOP) · Console Application Development
-
-Click here
 
 🏆 Achievements
 🧠 Break Through Tech AI Fellow @ Cornell Tech – Selected from 3000+ applicants
@@ -82,12 +43,9 @@ Actively exploring hands-on labs, CTF challenges, and cybersecurity internships.
 🌱 Sustainability
 🧠 Psychology
 
-📊 GitHub Stats
-I'm just getting started on GitHub — stats coming soon as I build and contribute more!
-Stay tuned 💻✨
 
 📬 Contact Me
-💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/elenachag/
 ✉️ Email: elena.ch@myyahoo.com
 🤝 Open to Collaborations!
 I'm open to internships, research, or collaborative projects in:
