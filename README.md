@@ -65,16 +65,6 @@ Actively exploring **hands-on labs, CTF challenges, and internships**.
 
 ---
 
-## 📊 GitHub Snapshot
-<div align="center">
-
-![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaCh77&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaCh77&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 📬 Contact Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/elenachag/)  
 - ✉️ **elena.ch@myyahoo.com**  
